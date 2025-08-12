@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**saisubramoni12/saisubramoni12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Saisubramoni N</h1>
+<h3 align="center">Aspiring Software Engineer |  Artificial Intelligence and Data Science Student</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Web Developement and Development Projects**
+- 🌱 I’m currently learning **SQL Programming and Data Engineering**
+- 👯 I’m looking to collaborate on **Data Science and Development Projects**
+- 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow, SQL, and more**
+- 📫 How to reach me **saisubramoni12@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisubramoni12&show_icons=true&locale=en&layout=compact" alt="saisubramoni12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bastin-A&show_icons=true&locale=en" alt="saisubramoni12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bastin-A&" alt="saisubramoni12" /></p>
+
+
