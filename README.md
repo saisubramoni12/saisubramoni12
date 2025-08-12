@@ -11,8 +11,8 @@
 ### My GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisubramoni12&show_icons=true&locale=en&layout=compact" alt="saisubramoni12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bastin-A&show_icons=true&locale=en" alt="saisubramoni12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisubramoni12&show_icons=true&locale=en" alt="saisubramoni12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bastin-A&" alt="saisubramoni12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisubramoni12&" alt="saisubramoni12" /></p>
 
 
